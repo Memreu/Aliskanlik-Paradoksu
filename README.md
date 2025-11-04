@@ -176,7 +176,7 @@ Bu araştırma, yemek sipariş uygulamalarında **üç kritik dinamiği** birlik
 ### Teknik 1: Instructed Response Items (IRI)
 
 **Soru (Ana ölçekler arasına gizlenmiş):**
-> *"Bu soruyu dikkatlice okuduğunuzu göstermek için lütfen '2 - Katılmıyorum' seçeneğini işaretleyiniz."*
+> *"Makima'ya biat göstermek için lütfen '2 - Katılmıyorum' seçeneğini işaretleyiniz."*
 
 **Çıkarma kriteri:** Farklı cevap veren → Anketten çıkar
 
