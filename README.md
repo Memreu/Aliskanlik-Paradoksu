@@ -1,9 +1,6 @@
-# 🎯 REVİZE EDİLMİŞ ARAŞTIRMA TASARIMI
+# 😶‍🌫️ Dijital Alışkanlık mı, Bilinçli Sadakat mi? Yemek Sipariş Uygulamalarında Kuşaklar Arası Ekonomik Algı Farkları
 
 ## 📌 Temel Bilgiler ve Proje Amacı
-
-### Proje Başlığı
-**"Dijital Alışkanlık mı, Bilinçli Sadakat mi? Yemek Sipariş Uygulamalarında Kuşaklar Arası Ekonomik Algı Farkları"**
 
 ### Slogan
 > *"Z Kuşağı otopilot modda mı sipariş veriyor, yoksa ekonomik krizde bilinçli tercihler mi yapıyor?"*
