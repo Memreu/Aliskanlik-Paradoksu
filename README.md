@@ -1,400 +1,454 @@
-# 🎯 Proje: "Yemek Sipariş Uygulamalarında Alışkanlık Paradoksu: Z Kuşağı vs Diğer Kuşaklar Karşılaştırması"
+# 🎯 ARAŞTIRMA TASARIMI
 
-## 💡 İLGİ ÇEKİCİ NOKTA
-**"Gençler gerçekten daha sadık mi yoksa sadece daha alışkın mı?"** - Makalenin ana temasını (alışkanlığın moderatör rolü) **kuşak çatışması** perspektifiyle harmanladık!
+## 📌 Temel Bilgiler ve Proje Amacı
 
----
+### Proje Başlığı
+**"Dijital Alışkanlık mı, Bilinçli Sadakat mi? Yemek Sipariş Uygulamalarında Kuşaklar Arası Ekonomik Algı ve Okuryazarlık Farkları"**
 
-## 🔥 Makaleden Farklılaşan İLGİ ÇEKİCİ Özellikler
+### Slogan
+> *"Z Kuşağı otopilot modda mı sipariş veriyor, yoksa ekonomik krizde bilinçli tercihler mi yapıyor? Dijital okuryazarlık ve ekonomik algı, sadakati nasıl şekillendiriyor?"*
 
-| Makale | Sizin Projeniz |
-|--------|----------------|
-| Suudi Arabistan | **Türkiye geneli** (online erişim) |
-| Genel kullanıcı | **Kuşak karşılaştırması** (Z, Y, X kuşağı) |
-| 8 hipotez, karmaşık model | **3-4 ana hipotez, anlaşılır** |
-| Sadakat odaklı | **"Alışkanlık mı sadakat mi?" gizemi** |
-| 325 kişi | **250-300 kişi (yeterli)** |
+### Projenin Özü (Elevator Pitch)
+Bu araştırma, yemek sipariş uygulamalarında **üç kritik dinamiği** birlikte inceleyen ilk çalışmadır:
 
-### 🎭 PROJENIN HİKAYESİ
-> *"Herkes Z kuşağının yemek uygulamalarına bağımlı olduğunu söylüyor. Ama bu gerçek sadakat mi, yoksa sadece dijital alışkanlık mı? Yaşlı kuşaklar uygulamaları daha bilinçli mi kullanıyor? Bu proje, alışkanlık ile sadakat arasındaki ince çizgiyi ortaya çıkarıyor!"*
+1. 🎮 **Alışkanlık Paradoksu:** Gençler teknolojiye bağımlı ama sadık değil mi?
+2. 📱 **Dijital Okuryazarlık Avantajı:** Yüksek dijital beceri, farklı değer algısı yaratıyor mu?
+3. 💰 **Ekonomik Kriz Gerçeği:** Enflasyon döneminde fiyat hassasiyeti sadakati nasıl etkiliyor?
 
----
-
-## 📋 ARAŞTIRMA HİPOTEZLERİ (Makaleyle Uyumlu)
-
-### Ana Hipotezler
-
-**H1:** Performans beklentisi (hız, kolaylık) algılanan değerleri (fiyat, duygusal, sosyal) pozitif etkiler
-- H1a → Sosyal değer
-- H1b → Duygusal değer  
-- H1c → Fiyat değeri
-
-**H2:** Algılanan değerler (özellikle duygusal ve fiyat) memnuniyeti pozitif etkiler
-
-**H3:** Memnuniyet, tekrar kullanma niyetini pozitif etkiler
-
-**H4 (İLGİ ÇEKİCİ!):** Alışkanlık düzeyi, yaş grupları arasında anlamlı fark gösterir
-- **Alt hipotez:** Z kuşağında alışkanlık yüksek ama memnuniyet-sadakat ilişkisi zayıf (otomatik davranış)
-- **Alt hipotez:** X kuşağında alışkanlık düşük ama memnuniyet-sadakat ilişkisi güçlü (bilinçli seçim)
+**Sonuç:** Uygulamalar için **kuşak-özel, ekonomik durum-özel pazarlama stratejileri** geliştirilecek.
 
 ---
 
-## 📊 ANKET YAPISI (Makaleyle %90 Uyumlu)
+## 🔍 Araştırma Soruları
 
-### BÖLÜM 1: Filtre Soruları (3 soru)
+### Ana Araştırma Sorusu
+**"Yemek sipariş uygulamalarına yönelik sadakatin belirleyicileri nelerdir ve bu belirleyiciler alışkanlık, dijital okuryazarlık ve ekonomik algı tarafından nasıl modere edilir?"**
 
-1. Son 3 ayda yemek sipariş uygulaması kullandınız mı? (Hayır → anket biter)
-2. En sık kullandığınız uygulama? (Yemeksepeti, Getir Yemek, Trendyol Yemek, Diğer)
-3. Doğum yılınız? (Kuşak analizi için)
+### Alt Araştırma Soruları
 
----
+**1. Temel İlişkiler:**
+- Performans ve çaba beklentisi, algılanan değerleri (duygusal, fiyat, sosyal) nasıl etkiler?
+- Algılanan değerler, sadakati ne ölçüde tahmin eder?
 
-### BÖLÜM 2: Performans Beklentisi (3 madde - Makaleyle aynı)
+**2. Kuşak Dinamikleri:**
+- Z, Y ve X kuşakları arasında alışkanlık düzeyleri farklılaşıyor mu?
+- Hangi kuşak için algılanan değerler daha kritik?
 
-*5'li Likert: 1=Kesinlikle Katılmıyorum ... 5=Kesinlikle Katılıyorum*
+**3. Dijital Okuryazarlık Etkisi:**
+- Yüksek dijital okuryazarlığa sahip kullanıcılar, düşük okuryazarlığa sahip kullanıcılara göre uygulamalardan daha fazla değer mi elde ediyor?
+- Dijital beceri, performans beklentisinin algılanan değerler üzerindeki etkisini güçlendiriyor mu?
 
-| Kod | Madde | Kaynak |
-|-----|-------|--------|
-| PE1 | [X] uygulaması günlük yaşamımda kullanışlıdır | Makale PE1 |
-| PE2 | [X] uygulaması uygun yemek satın alma olasılığımı artırır | Makale PE2 |
-| PE3 | [X] uygulaması satın alma sürecini hızlandırır | Makale PE3 |
+**4. Ekonomik Kriz Bağlamı:**
+- Ekonomik durumu kötü algılayan kullanıcılar, fiyat değerine daha mı duyarlı?
+- Ekonomik algı, fiyat değerinin sadakat üzerindeki etkisini nasıl modere ediyor?
 
----
-
-### BÖLÜM 3: Çaba Beklentisi (3 madde - Makaleyle aynı)
-
-| Kod | Madde | Kaynak |
-|-----|-------|--------|
-| EE1 | [X] uygulamasını kullanmayı öğrenmek kolaydır | Makale EE1 |
-| EE2 | [X] uygulamasıyla etkileşimim net ve anlaşılırdır | Makale EE2 |
-| EE3 | [X] uygulamasını kullanmak kolaydır | Makale EE3 |
+**5. Karmaşık Etkileşimler:**
+- Alışkanlık, dijital okuryazarlık ve ekonomik algının **üçlü etkileşimi** var mı?
+- Hangi profildeki kullanıcı en sadık? (Örn: Yüksek dijital beceri + düşük alışkanlık + iyi ekonomik durum)
 
 ---
 
-### BÖLÜM 4: Algılanan Değerler (9 madde)
+## 📋 HİPOTEZLER
 
-#### A) Sosyal Değer (3 madde - Makaleyle aynı)
+### A) ANA ETKİLER (Direct Effects)
 
-| Kod | Madde | Kaynak |
-|-----|-------|--------|
-| SV1 | [X] uygulaması başkaları tarafından kabul edildiğimi hissettirir | Makale SV1 |
-| SV2 | [X] uygulaması başkalarında iyi izlenim bırakır | Makale SV2 |
-| SV3 | [X] uygulaması bana sosyal onay sağlar | Makale SV3 |
+#### Grup 1: Performans & Çaba Beklentisi → Algılanan Değerler
 
-#### B) Duygusal Değer (3 madde - Makaleyle aynı)
+**H1a:** Performans ve çaba beklentisi, duygusal değeri pozitif etkiler (β > 0, p < 0.05)
 
-| Kod | Madde | Kaynak |
-|-----|-------|--------|
-| EV1 | [X] uygulamasını kullanırken rahat hissediyorum | Makale EV1 |
-| EV2 | [X] uygulamasını kullanırken iyi hissediyorum | Makale EV2 |
-| EV3 | [X] uygulamasını kullanırken keyif alıyorum | Makale EV3 |
+**H1b:** Performans ve çaba beklentisi, fiyat değerini pozitif etkiler (β > 0, p < 0.05)
 
-#### C) Fiyat Değeri (3 madde - Makaleyle aynı)
-
-| Kod | Madde | Kaynak |
-|-----|-------|--------|
-| PV1 | [X] uygulaması farklı restoranların fiyatlarını karşılaştırarak tasarruf etmemi sağlar | Makale PV1 |
-| PV2 | [X] uygulamasının fiyatları makuldür | Makale PV2 |
-| PV3 | [X] uygulamasının teslimat ücretleri ekonomiktir | Makale PV3 |
+**H1c:** Performans ve çaba beklentisi, sosyal değeri pozitif etkiler (β > 0, p < 0.05)
 
 ---
 
-### BÖLÜM 5: Memnuniyet/Tutumsal Sadakat (3 madde - Makaleyle aynı)
+#### Grup 2: Algılanan Değerler → Sadakat
 
-| Kod | Madde | Kaynak |
-|-----|-------|--------|
-| AL1 | [X] uygulaması benim ilk tercihim olacaktır | Makale AV1 |
-| AL2 | [X] uygulamasını diğer uygulamalardan daha fazla kullanacağım | Makale AV2 |
-| AL3 | [X] uygulaması benim favori uygulamam olacak | Makale AV3 |
+**H2:** Duygusal değer, fiyat değeri ve sosyal değer, sadakati pozitif etkiler (β > 0, p < 0.05)
+- H2a: Duygusal değer → Sadakat (+)
+- H2b: Fiyat değeri → Sadakat (+)
+- H2c: Sosyal değer → Sadakat (+)
 
----
-
-### BÖLÜM 6: Davranışsal Sadakat (3 madde - Makaleyle aynı)
-
-| Kod | Madde | Kaynak |
-|-----|-------|--------|
-| BL1 | [X] uygulamasını kullanmaya devam etmek istiyorum | Makale BV1 |
-| BL2 | Bu uygulamayı başkalarına tavsiye etmeye hazırım | Makale BV2 |
-| BL3 | Bu uygulamadan vereceğim sipariş sayısı artacak | Makale BV3 |
+**Beklenti:** β(Duygusal) > β(Fiyat) > β(Sosyal)
 
 ---
 
-### BÖLÜM 7: Alışkanlık (3 madde - Makaleyle aynı) ⭐
+#### Grup 3: Kuşak Farkları
 
-| Kod | Madde | Kaynak |
-|-----|-------|--------|
-| HAB1 | [X] uygulamasından yemek sipariş etmek benim için neredeyse bir alışkanlık | Makale HAB1 |
-| HAB2 | Yemek siparişi için [X] uygulamasını kullanmaya bağımlıyım | Makale HAB2 |
-| HAB3 | Yemek siparişi için [X] uygulamasını kullanma ihtiyacı hissediyorum | Makale HAB3 |
+**H3a:** Alışkanlık düzeyi, kuşaklar arasında anlamlı fark gösterir (F istatistiği, p < 0.05)
+
+**H3b:** Z kuşağı > Y kuşağı > X kuşağı (alışkanlık skorunda)
 
 ---
 
-### BÖLÜM 8: Demografik (5 soru)
+### B) MODERASYON ETKİLERİ (Moderation Effects)
 
-1. **Yaş:** ___ (Analiz: Z=1997-2012, Y=1981-1996, X=1965-1980)
-2. **Cinsiyet:** Kadın / Erkek / Belirtmek istemiyorum
-3. **Meslek:** Öğrenci / Çalışan / Serbest meslek / İşsiz / Emekli
-4. **Aylık sipariş sıklığı:** 0-2 / 3-5 / 6-10 / 10+
-5. **Ortalama sipariş tutarı:** 0-100₺ / 101-200₺ / 201-300₺ / 300₺+
+#### Moderatör 1: Alışkanlık
 
-**TOPLAM: 30 madde + 8 demografik = 38 soru**
+**H4 (Temel Moderasyon):** Alışkanlık, "algılanan değerler → sadakat" ilişkisini modere eder
 
----
+**H4a:** Düşük alışkanlık grubunda, duygusal değerin sadakat üzerindeki etkisi daha güçlüdür (β_düşük > β_yüksek, p < 0.05)
 
-## 📅 6 HAFTALIK ZAMAN PLANI (Revize)
-
-### Hafta 1: Hazırlık & Tasarım
-- [ ] Google Forms'da anket oluştur (yukarıdaki yapıya sadık)
-- [ ] Pilot test: 20 kişi (farklı yaş grupları)
-- [ ] Düzeltmeler
-
-### Hafta 2: Yoğun Veri Toplama
-- [ ] **Hedef: 300 yanıt** (Türkiye geneli)
-- [ ] Dağıtım kanalları:
-  - Twitter/X (hashtagler: #anket #yemeksepeti #getir)
-  - Reddit Türkiye (r/Turkey, r/Ankara)
-  - Ekşi Sözlük (entry)
-  - LinkedIn
-  - WhatsApp grupları
-  - Discord sunucuları
-
-### Hafta 3: Veri Temizleme & Keşifsel Analiz
-- [ ] Eksik veri kontrolü (<%10 ise kabul edilebilir)
-- [ ] Cronbach's Alpha (güvenilirlik: >0.70 hedef)
-- [ ] Tanımlayıcı istatistikler
-- [ ] **Kuşak gruplarını oluştur**
-
-### Hafta 4: Ana Analizler
-- [ ] **Faktör analizi** (değişken doğrulama)
-- [ ] **Korelasyon matrisi** (ilişki haritası)
-- [ ] **Regresyon analizi** (H1, H2, H3)
-- [ ] **ANOVA** (kuşaklar arası fark - H4)
-
-### Hafta 5: Moderasyon Analizi (İLGİ ÇEKİCİ KISIM!)
-- [ ] **Alışkanlık grupları oluştur:** 
-  - Düşük alışkanlık (HAB ortalama <3)
-  - Yüksek alışkanlık (HAB ortalama ≥3)
-- [ ] **Çoklu grup analizi:** 
-  - Z kuşağında: Memnuniyet → Sadakat ilişkisi zayıf mı?
-  - X kuşağında: Memnuniyet → Sadakat ilişkisi güçlü mü?
-- [ ] **Etkileşim grafikleri** (moderasyon görselleştirme)
-
-### Hafta 6: Raporlama & Sunum
-- [ ] Bulgular yazımı
-- [ ] **İLGİ ÇEKİCİ BAŞLIKLAR:**
-  - "Z Kuşağı Sadık Değil, Alışkın!"
-  - "40+ Yaş: Bilinçli Kullanıcılar"
-- [ ] PowerPoint (görsel ağırlıklı)
-- [ ] Yönetimsel öneriler
+**H4b:** Düşük alışkanlık grubunda, fiyat değerinin sadakat üzerindeki etkisi daha güçlüdür (β_düşük > β_yüksek, p < 0.05)
 
 ---
 
-## 🎨 ANALİZ TEKNİKLERİ (Detaylı)
+#### Moderatör 2: Dijital Okuryazarlık
 
-### 1. Güvenilirlik Analizi
+**H5:** Dijital okuryazarlık düzeyi, "performans beklentisi → algılanan değerler" ilişkisini modere eder
+
+**H5a:** Yüksek dijital okuryazarlıkta, performans beklentisinin fiyat değeri üzerindeki etkisi daha güçlüdür (β_yüksek > β_düşük, p < 0.05)
+
+**H5b:** Düşük dijital okuryazarlıkta, performans beklentisinin duygusal değer üzerindeki etkisi daha güçlüdür (β_düşük > β_yüksek, p < 0.05)
+
+---
+
+#### Moderatör 3: Ekonomik Kriz Algısı
+
+**H6:** Ekonomik durum algısı, "fiyat değeri → sadakat" ilişkisini modere eder
+
+**H6a:** Ekonomik durumu kötü algılayanlarda, fiyat değerinin sadakat üzerindeki etkisi daha güçlüdür (β_kötü > β_iyi, p < 0.05)
+
+**H6b:** Ekonomik durumu iyi algılayanlarda, duygusal değerin sadakat üzerindeki etkisi daha güçlüdür (β_iyi > β_kötü, p < 0.05)
+
+---
+
+## 📊 7'Lİ LİKERT ÖLÇEKLERİ VE HİPOTEZ BAĞLANTILARI
+
+### Ölçek Formatı
 ```
-Cronbach's Alpha (her faktör için):
-- Performans Beklentisi (PE1, PE2, PE3)
-- Çaba Beklentisi (EE1, EE2, EE3)
-- Sosyal Değer (SV1, SV2, SV3)
-- Duygusal Değer (EV1, EV2, EV3)
-- Fiyat Değeri (PV1, PV2, PV3)
-- Tutumsal Sadakat (AL1, AL2, AL3)
-- Davranışsal Sadakat (BL1, BL2, BL3)
-- Alışkanlık (HAB1, HAB2, HAB3)
-
-Hedef: α > 0.70 (kabul edilebilir)
-```
-
-### 2. Faktör Analizi (Doğrulayıcı)
-```
-KMO > 0.70 (örneklem yeterliliği)
-Bartlett testi p < 0.05 (korelasyon var)
-Faktör yükleri > 0.50 (madde geçerli)
-```
-
-### 3. Regresyon Analizleri (Hipotez Testleri)
-
-**Model 1 (H1):**
-```
-Bağımlı: Sosyal Değer, Duygusal Değer, Fiyat Değeri
-Bağımsız: Performans Beklentisi
-→ R², β katsayıları, p değerleri
-```
-
-**Model 2 (H2):**
-```
-Bağımlı: Tutumsal Sadakat
-Bağımsız: Sosyal Değer, Duygusal Değer, Fiyat Değeri
-→ Hangisi daha etkili?
-```
-
-**Model 3 (H3):**
-```
-Bağımlı: Davranışsal Sadakat
-Bağımsız: Tutumsal Sadakat
-→ Aracılık etkisi var mı?
-```
-
-### 4. ANOVA (Kuşak Karşılaştırması - H4)
-```
-Bağımsız Gruplar: Z kuşağı / Y kuşağı / X kuşağı
-Bağımlı: Alışkanlık skoru (HAB1+HAB2+HAB3)/3
-
-F testi → p < 0.05 ise fark var
-Post-hoc Tukey → Hangi gruplar farklı?
-
-BEKLENTİ: Z > Y > X (alışkanlık sıralaması)
-```
-
-### 5. Moderasyon Analizi (EN İLGİ ÇEKİCİ!)
-
-**Adım 1:** Örneklemi alışkanlığa göre ayır
-- Düşük alışkanlık grubu (HAB < 3.0)
-- Yüksek alışkanlık grubu (HAB ≥ 3.0)
-
-**Adım 2:** Her grupta ayrı regresyon
-```
-DÜŞÜK ALIŞKANLIK:
-Tutumsal Sadakat → Davranışsal Sadakat (β = ?)
-
-YÜKSEK ALIŞKANLIK:
-Tutumsal Sadakat → Davranışsal Sadakat (β = ?)
-
-BEKLENEN SONUÇ:
-β_düşük > β_yüksek 
-(Alışkanlık yoksa, memnuniyet önemli!)
-```
-
-**Adım 3:** Z-test ile katsayıları karşılaştır
-```
-Z = (β1 - β2) / SE_fark
-p < 0.05 → Moderasyon etkisi var!
+1 = Kesinlikle Katılmıyorum
+2 = Katılmıyorum
+3 = Kısmen Katılmıyorum
+4 = Ne Katılıyorum Ne Katılmıyorum
+5 = Kısmen Katılıyorum
+6 = Katılıyorum
+7 = Kesinlikle Katılıyorum
 ```
 
 ---
 
-## 📈 BEKLENEN İLGİ ÇEKİCİ BULGULAR
+### BLOK 1: Performans & Çaba Beklentisi
 
-### Senaryo 1: "Z Kuşağı Paradoksu"
-```
-✅ Z kuşağı en yüksek alışkanlık skoruna sahip
-❌ Ancak memnuniyet-sadakat ilişkisi en zayıf
-💡 Yorum: "Otopilot modu - Bilinçsiz kullanım"
-```
+**Talimat:** *"En sık kullandığınız yemek sipariş uygulamasını düşünerek aşağıdaki ifadelere katılım düzeyinizi belirtiniz."*
 
-### Senaryo 2: "X Kuşağı Bilgeliği"
-```
-✅ X kuşağı düşük alışkanlık ama yüksek bilinçli sadakat
-✅ Fiyat değeri en önemli değişken
-💡 Yorum: "Değer odaklı, rasyonel kararlar"
-```
+| Kod | Madde | Bağlı Hipotez |
+|-----|-------|---------------|
+| **PE1** | Bu uygulama günlük yaşamımda kullanışlıdır | H1a, H1b, H1c, H5a, H5b |
+| **PE2** | Bu uygulama satın alma sürecimi hızlandırır | H1a, H1b, H1c, H5a, H5b |
+| **EE1** | Bu uygulamayı kullanmak kolaydır | H1a, H1b, H1c, H5a, H5b |
+| **EE2** | Bu uygulamayla etkileşimim net ve anlaşılırdır | H1a, H1b, H1c, H5a, H5b |
 
-### Senaryo 3: "Alışkanlık Tuzağı"
-```
-✅ Yüksek alışkanlık grubunda:
-   - Performans beklentisi önemsiz
-   - Fiyat değeri önemsiz
-   - Sadece "alışkanlık" sürüyor
-
-💡 Yorum: "Uygulamalar bağımlılık yaratıyor, 
-           müşteri ilişkisi değil!"
-```
+**Kompozit skor:** PERF_EFFORT = (PE1 + PE2 + EE1 + EE2) / 4
 
 ---
 
-## 🎯 YÖNETİMSEL ÖNERİLER (Sunum İçin)
+### BLOK 2: Algılanan Değerler
 
-### Uygulamalara Tavsiyeler
+#### A) Duygusal Değer
 
-**Z Kuşağı İçin:**
-- 🎮 Gamification (rozetler, seviye sistemi)
-- 🎁 Sürpriz kampanyalar (alışkanlığı destekle)
-- 📱 Stories, Reels entegrasyonu
+| Kod | Madde | Bağlı Hipotez |
+|-----|-------|---------------|
+| **EV1** | Bu uygulamayı kullanırken rahat hissediyorum | H2a, H4a, H5b, H6b |
+| **EV2** | Bu uygulamayı kullanırken keyif alıyorum | H2a, H4a, H5b, H6b |
 
-**Y Kuşağı İçin:**
-- ⚡ Hız + Kalite dengesi
-- 💳 Sadakat programları (puanlar)
-- 👨‍👩‍👧 Aile paketleri
-
-**X Kuşağı İçin:**
-- 💰 Net fiyat avantajları
-- 📞 İnsan odaklı müşteri hizmetleri
-- 🛡️ Güvenlik vurgusu
+**Kompozit skor:** EMOTIONAL_VALUE = (EV1 + EV2) / 2
 
 ---
 
-## 🚀 PROJEYE İLGİ ÇEKİCİLİK KATAN EKSTRALAR
+#### B) Fiyat Değeri
 
-### 1. Görselleştirme Önerileri
-- **Heatmap:** Kuşaklar × Değişkenler (korelasyon haritası)
-- **Radar Chart:** Her kuşağın profili
-- **Moderasyon Grafiği:** Alışkanlık etkisinin görselleştirilmesi
-- **Kelime Bulutu:** Açık uçlu sorulardan (opsiyonel)
+| Kod | Madde | Bağlı Hipotez |
+|-----|-------|---------------|
+| **PV1** | Bu uygulama farklı restoranların fiyatlarını karşılaştırarak tasarruf etmemi sağlar | H2b, H4b, H5a, H6a |
+| **PV2** | Bu uygulamanın fiyatları makuldür | H2b, H4b, H5a, H6a |
 
-### 2. Sosyal Medya Stratejisi
-```
-Anket dağıtırken:
-"🤔 Z kuşağı yemek uygulamalarına bağımlı mı, yoksa sadece alışkın mı? 
-Bu araştırmaya katılarak öğrenin! 
-[Link] #anket #ykuşağı #zkuşağı"
-
-→ Merak uyandırır, katılım artar!
-```
-
-### 3. Mini Bulgular Paylaşımı
-
-Hafta 3'te ön sonuçları sosyal medyada paylaş:
-```
-"🚨 İlk 100 yanıt geldi! 
-%73'ü Getir kullanıyor ama %61'i 'fiyatlar pahalı' diyor! 
-Daha fazla veri için ankete katılın 👇"
-
-→ Viral potansiyel + daha fazla katılımcı!
-```
+**Kompozit skor:** PRICE_VALUE = (PV1 + PV2) / 2
 
 ---
 
-## 💻 YAZILIM & ARAÇLAR (Hepsi Ücretsiz)
+#### C) Sosyal Değer
 
-### Anket
-- Google Forms (Türkçe, kolay)
+| Kod | Madde | Bağlı Hipotez |
+|-----|-------|---------------|
+| **SV1** | Bu uygulama başkalarında iyi izlenim bırakır | H2c |
+| **SV2** | Bu uygulama bana sosyal onay sağlar | H2c |
 
-### Analiz
-1. **JASP** (önerilir - SPSS benzeri, ücretsiz)
-2. **R Studio** (profesyonel görünüm)
-3. **SPSS** (üniversite lisansı varsa)
-
-### Görselleştirme
-- Canva (grafikler)
-- Flourish (interaktif grafikler)
-- Google Sheets (basit grafikler)
+**Kompozit skor:** SOCIAL_VALUE = (SV1 + SV2) / 2
 
 ---
 
-## ✅ SON KONTROL LİSTESİ
+### BLOK 3: Sadakat (Bağımlı Değişken)
 
-| Kriter | Durum |
-|--------|-------|
-| Makaleyle uyumlu anket maddeleri | ✅ %95 aynı |
-| Eskişehir'e özel değil | ✅ Türkiye geneli |
-| İlgi çekici tema | ✅ Kuşak çatışması + Alışkanlık paradoksu |
-| 6 haftada bitirilebilir | ✅ Realistik plan |
-| Sıfır maliyet | ✅ Tamamen ücretsiz araçlar |
-| İstatistik teknikleri çeşitli | ✅ 7+ farklı test |
-| Hipotezler test edilebilir | ✅ Net, ölçülebilir |
-| Yönetimsel değer | ✅ Uygulamalara somut öneriler |
+| Kod | Madde | Bağlı Hipotez |
+|-----|-------|---------------|
+| **LOY1** | Bu uygulama benim ilk tercihim olacaktır | H2, H4, H6 |
+| **LOY2** | Bu uygulamayı başkalarına tavsiye ederim | H2, H4, H6 |
+| **LOY3** | Bu uygulamadan vereceğim sipariş sayısı artacak | H2, H4, H6 |
+
+**Kompozit skor:** LOYALTY = (LOY1 + LOY2 + LOY3) / 3
 
 ---
 
-## 🎤 SUNUM BAŞLIĞI ÖNERİLERİ
+### BLOK 4: Alışkanlık (Moderatör 1)
 
-1. **"Alışkanlık mı, Sadakat mi? Yemek Sipariş Uygulamalarında Kuşak Farkları"**
-2. **"Z Kuşağı Sadık Değil, Alışkın: Türkiye'de Yemek Uygulamaları Araştırması"**
-3. **"Otopilot Mod: Genç Nesil Bilinçsiz mi Sipariş Veriyor?"**
+| Kod | Madde | Bağlı Hipotez |
+|-----|-------|---------------|
+| **HAB1** | Bu uygulamadan yemek sipariş etmek benim için neredeyse bir alışkanlık | H3a, H3b, H4a, H4b |
+| **HAB2** | Yemek siparişi için bu uygulamayı kullanmaya bağımlıyım | H3a, H3b, H4a, H4b |
+
+**Kompozit skor:** HABIT = (HAB1 + HAB2) / 2
+
+**Moderasyon grupları:**
+- Düşük alışkanlık: HABIT < 4.0
+- Yüksek alışkanlık: HABIT ≥ 4.0
 
 ---
 
-## 📞 DESTEK
+## 🎮 MANİPÜLASYON KONTROLLERİ
 
-Sorularınız varsa (özellikle moderasyon analizi veya JASP kullanımı konusunda) yardımcı olabilirim! 🚀📊
+### Seçenek 1: Dijital Okuryazarlık Moderatörü (H5 için)
+
+**Talimat:** *"Lütfen aşağıdaki durumu okuyunuz ve ardından soruları cevaplayınız."*
+
+#### Senaryo A (Yüksek Dijital Okuryazarlık - Rastgele atanır):
+> *"Yeni bir mobil uygulamayı hızlıca öğrenebilirsiniz. Uygulamalardaki özel özellikleri (kupon, karşılaştırma, filtreler vb.) kolayca bulur ve kullanırsınız. Farklı uygulamaları karşılaştırarak en avantajlısını seçersiniz."*
+
+#### Senaryo B (Düşük Dijital Okuryazarlık - Rastgele atanır):
+> *"Yeni bir mobil uygulamayı öğrenmek sizin için zaman alır. Uygulamalardaki temel özellikleri (sipariş verme, ödeme) kullanırsınız, özel özellikleri bulmakta zorlanırsınız. Genellikle alışık olduğunuz uygulamaları kullanırsınız."*
+
+---
+
+#### Manipülasyon Kontrol Soruları (7'li Likert)
+
+| Kod | Madde | Amaç |
+|-----|-------|------|
+| **DL1** | Yeni bir mobil uygulamayı hızlıca öğrenebilirim | Manipülasyon kontrolü |
+| **DL2** | Uygulama içi özellikleri (kupon, kampanya vb.) kolayca bulabilirim | Manipülasyon kontrolü |
+| **DL3** | Farklı uygulamaları karşılaştırarak en avantajlısını seçerim | Manipülasyon kontrolü |
+
+---
+
+### Seçenek 2: Ekonomik Kriz Algısı Manipülasyonu (H6 için)
+
+**Talimat:** *"Türkiye'de enflasyon var. Bu durum aşağıdaki gibi farklı şekillerde hissedilebilir."*
+
+#### Senaryo A (Ekonomik Kriz Hassasiyeti Yüksek - Rastgele atanır):
+> *"Son 1 yıldır yemek fiyatlarında çok ciddi artışlar yaşıyorsunuz. Aylık bütçeniz daraldı ve yemek siparişinde fiyat çok önemli hale geldi. Sipariş vermeden önce mutlaka fiyatları karşılaştırıyorsunuz."*
+
+#### Senaryo B (Ekonomik Kriz Hassasiyeti Düşük - Rastgele atanır):
+> *"Yemek fiyatlarında artış olsa da bu sizin bütçenizi çok etkilemiyor. Yemek siparişinde fiyat sizin için önemli bir faktör değil. Daha çok uygulama deneyimi ve yemek kalitesine odaklanıyorsunuz."*
+
+---
+
+#### Manipülasyon Kontrol Soruları (7'li Likert)
+
+| Kod | Madde | Amaç |
+|-----|-------|------|
+| **EC1** | Yemek siparişi verirken ekonomik durumu dikkate alırım | Manipülasyon kontrolü |
+| **EC2** | Fiyat artışları yemek sipariş sıklığımı etkiledi | Manipülasyon kontrolü |
+
+---
+
+## 🎯 KONTROL DEĞİŞKENLERİ
+
+### 1. Kullanım Sıklığı
+**Soru:** Aylık ortalama kaç kez yemek sipariş verirsiniz?
+- [ ] 0-2 kez
+- [ ] 3-5 kez
+- [ ] 6-10 kez
+- [ ] 10+ kez
+
+---
+
+### 2. Platform Çeşitliliği
+**Soru:** Kaç farklı yemek sipariş uygulaması kullanıyorsunuz?
+- [ ] Sadece 1 uygulama
+- [ ] 2 uygulama
+- [ ] 3-4 uygulama
+- [ ] 5+ uygulama
+
+---
+
+### 3. Kampanya Duyarlılığı (7'li Likert)
+**Soru:** "Sadece kampanya/indirim varsa sipariş veririm"
+- 1 (Kesinlikle Katılmıyorum) → 7 (Kesinlikle Katılıyorum)
+
+---
+
+## 👁️ DİKKAT KONTROLLERİ
+
+### Teknik 1: Instructed Response Items (IRI)
+
+**Soru (Ana ölçekler arasına gizlenmiş):**
+> *"Bu soruyu dikkatlice okuduğunuzu göstermek için lütfen '2 - Katılmıyorum' seçeneğini işaretleyiniz."*
+
+**Çıkarma kriteri:** Farklı cevap veren → Anketten çıkar
+
+---
+
+### Teknik 2: Zamanlama Kontrolü
+
+**Kritik eşik:** 
+- Çok hızlı: < 3 dakika → Çıkar
+- Çok yavaş: > 20 dakika → Çıkar
+
+---
+
+### Teknik 3: Straight-Lining Kontrolü
+
+**Post-hoc:** Tüm Likert sorularına aynı cevabı verenler → Çıkar
+
+---
+
+## 📊 DEMOGRAFİK BİLGİLER
+
+### 1. Yaş (Kuşak Analizi İçin)
+**Doğum yılınız:** _____ (Açık uçlu)
+
+**Kodlama:**
+- Z Kuşağı: 1997-2012 (12-27 yaş)
+- Y Kuşağı: 1981-1996 (28-43 yaş)
+- X Kuşağı: 1965-1980 (44-59 yaş)
+
+---
+
+### 2. Cinsiyet
+- [ ] Kadın
+- [ ] Erkek
+- [ ] Diğer
+- [ ] Belirtmek istemiyorum
+
+---
+
+### 3. Eğitim Durumu
+- [ ] Lise veya altı
+- [ ] Ön lisans
+- [ ] Lisans
+- [ ] Yüksek lisans
+- [ ] Doktora
+
+---
+
+### 4. Meslek
+- [ ] Öğrenci
+- [ ] Tam zamanlı çalışan
+- [ ] Yarı zamanlı çalışan
+- [ ] Serbest meslek
+- [ ] Emekli
+- [ ] İşsiz
+
+---
+
+### 5. Ekonomik Durum Algısı (H6 için KRİTİK!)
+
+**Soru:** Ekonomik durumunuz hakkında nasıl hissediyorsunuz?
+- [ ] Çok kötü (Gelirim giderlerimi karşılamıyor)
+- [ ] Kötü (Zorlukla karşılıyorum)
+- [ ] Orta (İdare ediyorum)
+- [ ] İyi (Rahat yaşıyorum)
+- [ ] Çok iyi (Tasarruf yapabiliyorum)
+
+**Analiz için gruplandırma:**
+- Kötü ekonomik durum: 1-2 puan
+- İyi ekonomik durum: 4-5 puan
+
+---
+
+### 6. Tercih Edilen Uygulama
+**En sık kullandığınız uygulama:**
+- [ ] Yemeksepeti
+- [ ] Getir Yemek
+- [ ] Trendyol Yemek
+- [ ] Diğer: ___
+
+---
+
+### 7. Şehir
+**Yaşadığınız şehir:** _____
+
+---
+
+## 📝 KISA ÖZET
+
+### Anket Yapısı
+
+| Bölüm | Madde Sayısı | Tahmini Süre |
+|-------|--------------|--------------|
+| Filtre | 1 soru | 0.2 dk |
+| Manipülasyon Senaryosu | 1 senaryo + 2-3 kontrol | 1.0 dk |
+| Ana Ölçekler (7'li Likert) | 15 madde | 2.5 dk |
+| Kontrol Değişkenleri | 3 madde | 0.5 dk |
+| Dikkat Kontrolü | 1 madde (gizli) | 0.3 dk |
+| Demografik | 7 soru | 1.0 dk |
+| **TOPLAM** | **~30 soru** | **~5.5 dakika** |
+
+---
+
+### Hipotez Özeti
+
+| Hipotez Türü | Sayı | Test Yöntemi |
+|--------------|------|--------------|
+| Ana Etkiler | 6 (H1a-c, H2a-c) | Doğrusal/Çoklu Regresyon |
+| Kuşak Farkı | 2 (H3a-b) | ANOVA + Post-hoc Tukey |
+| Moderasyon (Alışkanlık) | 2 (H4a-b) | Çoklu Grup Regresyonu / Etkileşim Terimi |
+| Moderasyon (Dijital OK.) | 2 (H5a-b) | Çoklu Grup Regresyonu / Etkileşim Terimi |
+| Moderasyon (Ekonomik) | 2 (H6a-b) | Çoklu Grup Regresyonu / Etkileşim Terimi |
+| **TOPLAM** | **14 hipotez** | - |
+
+---
+
+### Örneklem Hedefi
+
+**Toplam:** 300 geçerli yanıt
+
+**Kuşak dağılımı:**
+- Z Kuşağı: ~100 kişi (33%)
+- Y Kuşağı: ~120 kişi (40%)
+- X Kuşağı: ~80 kişi (27%)
+
+**Manipülasyon grupları:**
+- Grup A (Yüksek): ~150 kişi
+- Grup B (Düşük): ~150 kişi
+
+---
+
+### Değişken Listesi
+
+**Bağımsız Değişkenler:**
+- Performans & Çaba Beklentisi (PERF_EFFORT)
+
+**Aracı Değişkenler:**
+- Duygusal Değer (EMOTIONAL_VALUE)
+- Fiyat Değeri (PRICE_VALUE)
+- Sosyal Değer (SOCIAL_VALUE)
+
+**Bağımlı Değişken:**
+- Sadakat (LOYALTY)
+
+**Moderatör Değişkenler:**
+- Alışkanlık (HABIT)
+- Dijital Okuryazarlık (DIGITAL_LITERACY - manipüle)
+- Ekonomik Durum Algısı (ECONOMIC_PERCEPTION - manipüle)
+
+**Kontrol Değişkenleri:**
+- Kullanım Sıklığı
+- Platform Çeşitliliği
+- Kampanya Duyarlılığı
+- Kuşak (AGE_GROUP)
+- Cinsiyet, Eğitim, Meslek
+
+---
+
+### Beklenen Katkılar
+
+**Teorik:**
+1. UTAUT2 + VAB + Dijital Okuryazarlık + Ekonomik Kriz Teorisi (ilk kez birlikte)
+2. Üç moderatörün karşılaştırmalı analizi
+3. Kuşaklar arası farklılıkların çok boyutlu incelenmesi
+
+**Pratik:**
+1. Kuşak-özel pazarlama stratejileri
+2. Ekonomik durum-özel kampanya tasarımı
+3. Dijital okuryazarlığa göre arayüz optimizasyonu
+4. Alışkanlık segmentasyonu
