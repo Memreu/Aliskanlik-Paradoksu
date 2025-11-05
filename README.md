@@ -2,7 +2,7 @@
 
 ## 📌 PROJE BİLGİLERİ
 
-[Levent tıkla.](./Anket Formu Taslağı.md)
+[Anket Formu Taslağı LEVENT TIKLA](./Anket%20Formu%20Taslağı.md)
 ### Proje Başlığı
 **"Z Kuşağı vs Diğer Kuşaklar: Yemek Sipariş Uygulamalarında Alışkanlık, Ekonomik Algı ve Sadakat Farklılıkları"**
 
