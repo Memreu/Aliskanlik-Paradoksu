@@ -1,5 +1,5 @@
 # Kuşak Çatışması: Yemek Sipariş Uygulamalarında Alışkanlık, Ekonomik Algı ve Sadakat Farklılıkları
-Bu depo, Eskişehir Osmangazi Üniversitesi Fen Fakültesi İstatistik Bölümü "Anket Düzenleme Dersi" kapsamında yürütülen araştırma projesinin veri setini, analiz kodlarını ve sonuç raporlarını içermektedir.
+Bu depo, Eskişehir Osmangazi Üniversitesi Fen Fakültesi İstatistik Bölümü "Anket Düzenleme Dersi" kapsamında yürütülen araştırma projesinin  analiz kodlarını ve sonuç raporlarını içermektedir. (Veri setini doğrudan paylaşmak etik olarak doğru gelmediği için paylaşılmamıştır.)
 
 ## 📌 Proje Özeti
 Bu araştırma, Z Kuşağı ile diğer kuşaklar (X ve Y) arasında yemek sipariş uygulamalarına yönelik alışkanlık, ekonomik algı ve sadakat farklılıklarını incelemeyi amaçlamaktadır. Çalışmada Teknoloji Kabul ve Kullanım Birleştirilmiş Teorisi (UTAUT2) temel alınmış ve modele "Duygusal Değer" ile "Ekonomik Algı" boyutları eklenerek genişletilmiştir.
