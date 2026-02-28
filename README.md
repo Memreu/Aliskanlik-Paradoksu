@@ -15,7 +15,7 @@ Araştırma sonucunda elde edilen 5 temel bulgu şunlardır:
 * **Z Kuşağı "Otomatik Pilot"ta Değildir:** Beklenenin aksine, dijital yerliler olan Z Kuşağının alışkanlık skoru diğer kuşaklardan anlamlı derecede daha düşüktür. 
 * **En Sevilen Uygulama, En Az Yoran Uygulamadır:** Çaba beklentisi (zahmetsizlik), duygusal değer üzerinde performans beklentisinden çok daha güçlü bir etkiye sahiptir. 
 * **Ekonomik Algı, Karar Mekanizmasını Yönetir:** Kötü ekonomik algıda duygusal bağ sadakati etkilemezken, ekonomik refah algısı arttıkça duygusal deneyimin önemi artmaktadır. 
-* **Tek Tip Pazarlama Devri Bitmiştir:** Cinsiyet ve kuşak arasında sadakat bağlamında bir "Makas Etkisi" bulunmuştur. [cite: 474] [cite_start]Z Kuşağında kadınlar, diğer kuşaklarda ise erkekler daha sadıktır.
+* **Tek Tip Pazarlama Devri Bitmiştir:** Cinsiyet ve kuşak arasında sadakat bağlamında bir "Makas Etkisi" bulunmuştur. Z Kuşağında kadınlar, diğer kuşaklarda ise erkekler daha sadıktır.
 
 ## 👨‍💻 Araştırmacılar
 * **Mehmet Emre Ünlü** 
